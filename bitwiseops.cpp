@@ -12,5 +12,7 @@ int main(){
     cout<<a<<endl;
     ll b=13<<1;
     cout<<b<<endl; //left shift 
+    ll c=~5;
+    cout<<c<<endl;
     return 0;
 }
