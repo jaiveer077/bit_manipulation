@@ -10,5 +10,7 @@ int main(){
     cout<<z<<endl;
     ll a=13>>4; // right shift  
     cout<<a<<endl;
+    ll b=13<<1;
+    cout<<b<<endl; //left shift 
     return 0;
 }
